@@ -15,7 +15,7 @@
 # Customizing settings
   __??? Inputlarin tek tek izahi olmalidir, yoxsa ehtiyac yoxdur? Meselen:__
   
-  #### Image Analyse
+  ### Image Analyse
   Image Analyse analyse your product images using Google Vision API  and use this data while searching.
   #### Recently Viewed Products
   It uses cookie data to save recently viewed products and offers client while tapping search input
