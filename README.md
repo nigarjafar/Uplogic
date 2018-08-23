@@ -3,7 +3,7 @@
   
 # Choosing plan
   Select appropriate plan. Press Button and Accept charge. You can see all billing info here.
-  ### Change plan
+  ## Change plan
   You can always upgrade or downgrade your plan. Press __Change plan__ in admin page.
   
 # Configuration
@@ -15,7 +15,7 @@
 # Customizing settings
   __??? Inputlarin tek tek izahi olmalidir, yoxsa ehtiyac yoxdur? Meselen:__
   
-  ### Image Analyse
+  ## Image Analyse
   Image Analyse analyse your product images using Google Vision API  and use this data while searching.
   ## Recently Viewed Products
   It uses cookie data to save recently viewed products and offers client while tapping search input
