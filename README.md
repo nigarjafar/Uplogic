@@ -7,7 +7,7 @@
 # Choosing plan
   You can choose a plan in which you pay for what you need or for an advance approach and a professional treatment. 
   After you click on Install app button, you see the chart with all the plans available for your store and the features offered for each plan (click on “more info”). 
-_Select appropriate plan. Press Button and Accept charge. All billing info will appear on this page._
+__Select appropriate plan. Press Button and Accept charge. All billing info will appear on this page.__
 
   ## Change plan
   You can upgrade or downgrade your plan at any time throughout your subscription. Press __Change plan__ in the admin page and select available plans. 
